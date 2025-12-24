@@ -123,7 +123,7 @@ const classPacks = [
   { classes: 30, price: 630, savings: "Save $210" }
 ];
 
-const comparisonFeatures = [
+const _comparisonFeatures = [
   "Monthly Classes",
   "Advanced Booking",
   "Guest Privileges",

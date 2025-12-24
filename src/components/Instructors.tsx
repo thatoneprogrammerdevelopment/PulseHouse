@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Button } from "./ui/button";
 import { Badge } from "./ui/badge";
-import { Card, CardContent } from "./ui/card";
+import { Card } from "./ui/card";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "./ui/dialog";
 import { Instagram, Award, Music, Heart, Calendar } from "lucide-react";
