@@ -123,19 +123,6 @@ const classPacks = [
   { classes: 30, price: 630, savings: "Save $210" }
 ];
 
-const _comparisonFeatures = [
-  "Monthly Classes",
-  "Advanced Booking",
-  "Guest Privileges",
-  "Smoothie Bar Discount",
-  "Retail Discount",
-  "Towel Service",
-  "Priority Booking",
-  "Private Training",
-  "VIP Locker",
-  "Member Events"
-];
-
 export function MembershipPlans() {
   return (
     <div className="w-full min-h-screen bg-gray-50">
